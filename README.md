@@ -8,12 +8,13 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/arsenio-soriano" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="http://www.linkedin.com/in/arsenio-soriano" height="40" width="80" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Skills:</h2>
+<h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Testing:</h3>
