@@ -10,7 +10,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/arsenio-soriano" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="http://www.linkedin.com/in/arsenio-soriano" height="40" width="80" /></a>
+<a href="https://www.linkedin.com/in/arsenio-soriano/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="http://www.linkedin.com/in/arsenio-soriano" height="40" width="80" /></a>
 </p>
 
 <h2 align="left">Skills:</h2>
